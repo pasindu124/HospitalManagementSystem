@@ -1,0 +1,6 @@
+To run
+
+1.Open netbeans File-->Open Project-->Select This Project
+2.Create a database 'mydb' on phpmyadmin and import mydb.sql for it.
+3.Run the project
+4.Username: Admin | Password:12345
